@@ -1,0 +1,27 @@
+{
+  "name": "disabled-in-progress",
+  "authors": [
+    "Bogdan Pop <bogdan.pop87@gmail.com>"
+  ],
+  "description": "Disables a button and shows spinner next to the button text",
+  "main": "src/disabled-in-progress.directive.js",
+  "keywords": [
+    "angular",
+    "button",
+    "spinner",
+    "disable"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bpop1/disabled-in-progress.git"
+  }
+}
