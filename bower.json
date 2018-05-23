@@ -1,7 +1,8 @@
 {
   "name": "disabled-in-progress",
+  "version": "1.0.0",
   "authors": [
-    "Bogdan Pop <bogdan.pop87@gmail.com>"
+    "Bogdan Pop"
   ],
   "description": "Disables a button and shows spinner next to the button text",
   "main": "src/disabled-in-progress.directive.js",
