@@ -68,7 +68,7 @@
         }
 
         element.attr('ng-disabled', disabledExpr);
-        element.removeAttr('ew-disabled-in-progress');
+        element.removeAttr('bp-disabled-in-progress');
 
         $compile(element)(scope);
       }
